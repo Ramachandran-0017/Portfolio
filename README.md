@@ -1,6 +1,6 @@
-# Ramachandran G — Premium Portfolio
+# Ramachandran G — Portfolio
 
-A dark-first, premium developer portfolio built with React, TypeScript, Vite, Tailwind CSS v4, Motion, and Lucide React.
+A dark-first,  developer portfolio built with React, TypeScript, Vite, Tailwind CSS v4, Motion, and Lucide React.
 
 ## Run locally
 
